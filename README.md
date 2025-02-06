@@ -12,5 +12,5 @@ Users can **add, complete, and delete tasks** easily.
 ## 📂 How to Run  
 1. Clone the repo:  
    ```sh
-   git clone https://github.com/your-username/ToDoApp.git
+   git clone https://github.com/Hari-31/ToDoApp.git
    cd ToDoApp
